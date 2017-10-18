@@ -30,9 +30,9 @@ When I was at the University I had control of staff, and while I was at UWC I ha
 
 #### Additional skills
 
-Other Platforms I've Worked with: E4education and Wordpress 
-Methodologies : Test Driven Development
-Foreign languages : Spanish
+- Other Platforms I've Worked with: E4education and Wordpress 
+- Methodologies : Test Driven Development
+- Foreign languages : Spanish
 
 ## Education
 
@@ -67,5 +67,20 @@ I've also worked with differents instances of the university such as:
 
 ## Experience
 
-**UWC- Venezuela (Pro-Bono)** (Nov16 to Aug17)    
-*Volunteer- Head of Logistics and Website manager*  
+**UWC- Venezuela (Pro-Bono)** (Nov16 to Jan16)    
+*Volunteer*  
+**UWC- Venezuela (Pro-Bono)** (Jan16 to Aug17)    
+*Head of Logistics and Website manager*  
+
+## Hobbies, Interests and other info
+
+**Cooking:** I can make some Italian, Portuguesse and Venezuelan dishes.
+**Baking:** Cakes, Cookies, Cinnamon Rolls just tell me what yo want ;)
+**Massage:** I took masseur classes, Nothing fancy I just like to help people when get stressed.
+**Dogs:** love nature in general, but dogs are awesome.
+
+## What I want to learn in the future
+
+- **German** 
+- **Japanese**
+- **React**
