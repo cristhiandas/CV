@@ -1,29 +1,42 @@
-## Your Name
+## Cristhian Da Silva
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm a Full Stack Junior Developer (Wannabe) that is always searching for knowlegde in diferent areas. I'm looking for a challenging role that makes me learn more everyday since I love problem solving.
+
+While I was at the Simón Bolivar University studying Networking Engineering I had the opportunity to learn and perform different roles, I've developed the University Study Guide's Website learning how to do it on my own. I also worked as pro-bono with the UWC-Venezuela foundation as the Head of Logistics and Web Manager, I learned personal management skills and logistic skills. And currently I'm learning to code at Makers Academy, the best 16 week software development bootcamp.
+
+
 
 ## Skills
 
-#### This Skill
+#### Autodidact
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I love to learn things, when I'm stuck on a challenge I look for the possible solutions and different ways on how to solve the problems. I've learned this Skill at the University.
 
-- Experience
-- Achievements
-- Evidence
+- At the Simón Bolivar University we didn't have a Website with Guides to Study the different subjects, so I've created the website. It started as a Wordpress blog, then I gathered a team of students and learnt how to use Fillezilla to do a better work on the system.
+- On 2015 we created a official Student Group, that way The website is recognized by the Universty and it is used by most of the students.
+- The website link is http://gecousb.com.ve/ and it shows my name as the Founding President at the end of the following Link http://gecousb.com.ve/index.php/miembros/ in the "Founder Board of Directors (2016-2017)" section.
 
-#### Another Skill
+#### Work well under pressure
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I learn more when I'm underpreassure, this is because I do things carefully in order to avoid mistakes, I'm a "dress me slowly for i am in a hurry" guy. When I worked with UWC-Venezuela Foundation I had to learn how to use the e4education platform in a week in order to "build" the Venezuelan website and the final result was a website with all the requirements the Foundation asked. You can see the website with http://www.ven.uwc.org/
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Leadership
+
+When I was at the University I had control of staff, and while I was at UWC I had a team working with me. In both cases I learned how to lead people in order to achieve the goals we had set for ourselves.
+
+- I achieved the foundation of the students group "Geco" at the University, and we managed to turn it into the most usefull group of the University.
+- I contributed to the growth of the future logistics while doing a document with all the information of the activities we made at the UWC-Venezuela Foundation.
+
+
+#### Additional skills
+
+Other Platforms I've Worked with: E4education and Wordpress 
+Methodologies : Test Driven Development
+Foreign languages : Spanish
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Oct 17 to Dec 17)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +47,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Simón Bolivar University (Unfinished) (Sep 2012 to Aug 2017)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Networking Engineering
+- Grade: 3.4596/5
 
-#### Any other qualifications
+While studying performed the following roles:
+1- Member of the electronic crew at F-SAEUSB Aug13 - Jan14
+2- Academic Secretary of the Federation of Student Centers Oct14 - Jul15
+3- Vice-president of the Networking Engineering Student Center Jul15-Jul16
+4- Founder President of the Students Group "Geco-USB" Jan16 - Aug17
+
+I've also worked with differents instances of the university such as:
+1- Rectoral team
+2- Basic Cycle Coordination
+3- Professional Cycle Coordination
+4- University Editorial "Equinoccio"
+5- The "IAEAL" whose acronym in Spanish means "Latin American High Studies Institute"
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**UWC- Venezuela (Pro-Bono)** (Nov16 to Aug17)    
+*Volunteer- Head of Logistics and Website manager*  
