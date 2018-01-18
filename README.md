@@ -93,4 +93,3 @@ I've also worked with differents instances of the university such as:
 
 - **German** 
 - **Japanese**
-- **React**
