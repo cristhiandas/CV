@@ -4,7 +4,12 @@ I'm a Full Stack Junior Developer (Wannabe) that is always searching for knowleg
 
 While I was at the Simón Bolivar University studying Networking Engineering I had the opportunity to learn and perform different roles, I've developed the University Study Guide's Website learning how to do it on my own. I also worked as pro-bono with the UWC-Venezuela foundation as the Head of Logistics and Web Manager, I learned personal management skills and logistic skills. And currently I'm learning to code at Makers Academy, the best 16 week software development bootcamp.
 
+## Projects
 
+MakersBnB.
+Transgresions.
+Yelp.
+fooDeals.
 
 ## Skills
 
@@ -27,11 +32,15 @@ When I was at the University I had control of staff, and while I was at UWC I ha
 - I achieved the foundation of the students group "Geco" at the University, and we managed to turn it into the most usefull group of the University.
 - I contributed to the growth of the future logistics while doing a document with all the information of the activities we made at the UWC-Venezuela Foundation.
 
+#### Tech Skills
+- Languajes: Ruby, Javascript, C, C++.
+- Frameworks: Sinatra, Rails, React, Nodejs.
+- Testing: Rspec, Capybara, Jasmine.
+- Methodologies : TDD, BDD, XP, Agile, DRY.
 
 #### Additional skills
 
 - Other Platforms I've Worked with: E4education and Wordpress 
-- Methodologies : Test Driven Development
 - Foreign languages : Spanish
 
 ## Education
@@ -42,7 +51,8 @@ When I was at the University I had control of staff, and while I was at UWC I ha
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC, DDD, BDD
+- ODD(SOLID)
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
