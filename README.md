@@ -7,7 +7,7 @@ While I was at the Simón Bolivar University studying Networking Engineering I h
 ## Projects
 
 MakersBnB.
-Transgresions.
+Transgressions.
 Yelp.
 fooDeals.
 
