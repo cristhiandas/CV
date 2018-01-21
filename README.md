@@ -5,11 +5,13 @@ I'm a Full Stack Junior Developer (Wannabe) that is always searching for knowled
 While I was at the Simón Bolivar University studying Networking Engineering I had the opportunity to learn and perform different roles, I've developed the University Study Guide's Website learning how to do it on my own. I also worked as pro-bono with the UWC-Venezuela foundation as the Head of Logistics and Web Manager, I learned personal management skills and logistic skills. And currently, I'm learning to code at Makers Academy, the best 16-week software development boot camp.
 
 ## Projects
+| Project        | Summary           | Technologies  |
+| ------------- |-------------| -----|
+| [fooDeals](https://github.com/cristhiandas/foodeals) | Shopping list app | Nodejs, express, mongoDB, React, Redux |
+| [Transgressions](https://github.com/cristhiandas/pokebattle-react) | Battle game with rails API for the backend | Rails, React |
+| [MakersBnB](https://github.com/cristhiandas/makers-bnb) | AirBnB mock made with ruby and js | Sinatra, JQuery |
+| [Yelp](https://github.com/cristhiandas/YelpApp) | Yelp mock made in rails | Ruby on rails |
 
-MakersBnB.
-Transgressions.
-Yelp.
-fooDeals.
 
 ## Skills
 
