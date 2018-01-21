@@ -8,9 +8,9 @@ While I was at the Simón Bolivar University studying Networking Engineering I h
 | Project        | Summary           | Technologies  |
 | ------------- |-------------| -----|
 | [fooDeals](https://github.com/cristhiandas/foodeals) | Shopping list app | Nodejs, express, mongoDB, React, Redux |
-| [Transgressions](https://github.com/cristhiandas/pokebattle-react) | Battle game with rails API for the backend | Rails, React |
-| [MakersBnB](https://github.com/cristhiandas/makers-bnb) | AirBnB mock made with ruby and js | Sinatra, JQuery |
-| [Yelp](https://github.com/cristhiandas/YelpApp) | Yelp mock made in rails | Ruby on rails |
+| [Transgressions](https://github.com/cristhiandas/pokebattle-react) | Battle game with rails API for the backend | Rails, React, postgresql |
+| [MakersBnB](https://github.com/cristhiandas/makers-bnb) | AirBnB mock made with ruby and js | Sinatra, JQuery, postgresql |
+| [Yelp](https://github.com/cristhiandas/YelpApp) | Yelp mock made in rails | Ruby on rails, postgresql |
 
 
 ## Skills
