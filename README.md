@@ -49,9 +49,9 @@ When I was at the University I had control of staff, and while I was at UWC I ha
 
 #### Makers Academy (Oct 17 to Dec 17)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code.
+- Fast, independent learner: I started learning other technologies on my own as you can see on my [Playing-with-react](https://github.com/cristhiandas/playing-with-react) repo
+- Great collaborator: I worked as a volunteer for the UWC foundation while doing Makers.
 
 - OOP, TDD, MVC, DDD, BDD
 - ODD(SOLID)
