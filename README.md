@@ -62,20 +62,21 @@ When I was at the University I had control of staff, and while I was at UWC I ha
 #### Simón Bolivar University (Unfinished) (Sep 2012 to Aug 2017)
 
 - Networking Engineering
-- Grade: 3.4596/5
+- Grade: 35/5
 
 While studying performed the following roles:
-1- Member of the electronic crew at F-SAEUSB Aug13 - Jan14
-2- Academic Secretary of the Federation of Student Centers Oct14 - Jul15
-3- Vice-president of the Networking Engineering Student Center Jul15-Jul16
-4- Founder President of the Students Group "Geco-USB" Jan16 - Aug17
+- Member of the electronic crew at F-SAEUSB Aug13 - Jan14
+- Academic Secretary of the Federation of Student Centers Oct14 - Jul15
+- Vice-president of the Networking Engineering Student Center Jul15-Jul16
+- Founder President of the Students Group "Geco-USB" Jan16 - Aug17
+
 
 I've also worked with different instances of the university such as:
-1- Rectoral team
-2- Basic Cycle Coordination
-3- Professional Cycle Coordination
-4- University Editorial "Equinoccio"
-5- The "IAEAL" whose acronym in Spanish means "Latin American High Studies Institute"
+- Rectoral team
+- Basic Cycle Coordination
+- Professional Cycle Coordination
+- University Editorial "Equinoccio"
+- The "IAEAL" whose acronym in Spanish means "Latin American High Studies Institute"
 
 ## Experience
 
