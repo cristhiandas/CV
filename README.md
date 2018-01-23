@@ -38,7 +38,7 @@ When I was at the University I had control of staff, and while I was at UWC I ha
 - Languages: Ruby, Javascript, C, C++.
 - Frameworks: Sinatra, Rails, React, Nodejs.
 - Testing: Rspec, Capybara, Jasmine.
-- Methodologies: TDD, BDD, XP, Agile, DRY.
+- Methodologies: TDD, BDD, [XP](https://cristhiandev.wordpress.com/2018/01/23/xp/), Agile, DRY.
 
 #### Additional skills
 
@@ -55,7 +55,7 @@ When I was at the University I had control of staff, and while I was at UWC I ha
 
 - OOP, TDD, MVC, DDD, BDD
 - ODD(SOLID)
-- Agile/XP
+- Agile/[XP](https://cristhiandev.wordpress.com/2018/01/23/xp/)
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
