@@ -1,8 +1,8 @@
-## Cristhian Da Silva
+## Cristhian Da Silva ([Check my blog to learn more about me](https://cristhiandev.wordpress.com/))
 
-I'm a Full Stack Developer that is always searching for knowledge in different areas. I'm looking for a challenging role that makes me learn more every day since I love problem-solving.
+I'm a Full Stack Developer that just finished the Makers Academy bootcamp. I'm always searching for knowledge in different areas. Currently I'm looking for a challenging role that makes me learn more every day since I love problem-solving.
 
-While I was at the Simón Bolivar University studying Networking Engineering I had the opportunity to learn and perform different roles, I've developed the University Study Guide's Website learning how to do it on my own. I also worked as pro-bono with the UWC-Venezuela foundation as the Head of Logistics and Web Manager, I learned personal management skills and logistic skills. And currently, I'm learning to code at Makers Academy, the best 16-week software development boot camp.
+I worked as pro-bono with the UWC-Venezuela foundation as the Head of Logistics and Web Manager, I learned personal management skills and logistic skills. Also While I was at the Simón Bolivar University studying Networking Engineering I had the opportunity to learn and perform different roles, I've developed the University Study Guide's Website learning how to do it on my own.
 
 ## Projects
 | Project        | Summary           | Technologies  |
