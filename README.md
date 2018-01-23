@@ -62,7 +62,7 @@ When I was at the University I had control of staff, and while I was at UWC I ha
 #### Simón Bolivar University (Unfinished) (Sep 2012 to Aug 2017)
 
 - Networking Engineering
-- Grade: 35/5
+- Grade: 3.5/5
 
 While studying performed the following roles:
 - Member of the electronic crew at F-SAEUSB Aug13 - Jan14
