@@ -19,7 +19,6 @@ While I was at the Simón Bolivar University studying Networking Engineering I h
 
 I love to learn things, when I'm stuck on a challenge I look for the possible solutions and different ways on how to solve the problems. I've learned this Skill at the University.
 
-- At the Simón Bolivar University we didn't have a Website with Guides to Study the different subjects, so I've created the website. It started as a Wordpress blog, then I gathered a team of students and learned how to use Filezilla to do a better work on the system.
 - In 2015 we created an official Student Group, that way The website is recognized by the Universty and it is used by most of the students.
 - The website link is http://gecousb.com.ve/ and it shows my name as the Founding President at the end of the following Link http://gecousb.com.ve/index.php/miembros/ in the "Founder Board of Directors (2016-2017)" section.
 
