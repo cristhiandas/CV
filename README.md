@@ -1,7 +1,7 @@
 ## Cristhian Da Silva ([Check my blog to learn more about me](https://cristhiandev.wordpress.com/))
 (Please, take 2 minutes to read this 4 paragraphs, if you don't like what you read, feel free to move on to the next CV ;) )
 
-I'm a Full Stack DevOps Engineer working in Santander Technology. I'm always searching for knowledge in different areas. Currently I'm looking for a challenging role that makes me learn more every day since I love problem-solving. One of the things that I love the most about my current role is the chance to learn about the business and being able to implement solutions for that would help the users. Just coding is not enough, I need (and love) to learn everything I can about the business.
+I'm a Full Stack DevOps Engineer working in Santander Technology. I'm always searching for knowledge in different areas. Currently I'm looking for a challenging role that makes me learn more every day since I love problem-solving. One of the things that I love the most about my current role is the chance to learn about the business and being able to implement solutions that would help the users. Just coding is not enough, I need (and love) to learn everything I can about the business area.
 
 In my day to day I pair program build the software using a BDD approach in a fully agile environment, after fulfilling  the requirements of the user story (Including the refactoring) I'd deploy into the different environments for test, and release into the live traffic after the software is approved. When building new micro-service I use a contract first approach in order to have a top to bottom design with a swagger file. In my current role I am deploying into live environment once week, I strongly believe in the benefits of continuous delivery. 
 
