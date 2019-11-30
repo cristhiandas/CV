@@ -102,6 +102,7 @@ As the head of logistics I had to manage the volunteers and the activities durin
 - Buy and organise the materials.
 - Handle communication between teams and between the different activities.
 As the Website manager I was in charge of updating and maintain the website https://www.ven.uwc.org/ which works with the platform e4education.    
+
 **Santander Technology - Milton Keynes, United Kingdom** (Mar18 to present)    
 *Software and DevOps Engineer*  
 - Work with a monolithic legacy application.
