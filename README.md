@@ -41,7 +41,7 @@ When I was at the University I had control of staff, and while I was at UWC I ha
 #### Tech Skills
 - Languages: Ruby, Java, Javascript, C, C++, HTML.
 - Styling: CSS.
-- Frameworks: Angular, Springboot, Sinatra, Rails, React, Nodejs.
+- Frameworks: Angular, Spring boot, Sinatra, Rails, React, Nodejs.
 - Testing: Junit, Cucumber, Rspec, Capybara, Jasmine, Karma, Protractor, Jest, JMeter.
 - Architecture: Monolithic legacy application, and Microservices based greenfield project.
 - DevOps: Jenkins, Openshift.
